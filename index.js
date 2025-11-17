@@ -21,7 +21,7 @@ const {
 // CONFIG
 // -------------------------
 
-const BOT_TOKEN = "MTQzOTc1MjcxMjUyNTcxMzQwOA.GK-BIG.beiA4sw4N0i-aS5YO7dn0XuDpEbcHJHYiXyjqA";
+const BOT_TOKEN = "";
 
 // permanent owner of Donald
 const OWNER_ID = "190200434487459842";
