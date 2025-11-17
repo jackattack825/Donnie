@@ -1,0 +1,54 @@
+[2025-11-17T02:05:11.161Z] 🔥 Logged in as DonaldThornBerry#8647
+[2025-11-17T02:05:48.954Z] 🟢 !join detected in guild 1397262280814760109 — tracking ENABLED.
+[2025-11-17T02:05:48.955Z] 👀 Target user already in VC misc-gaming. Joining now.
+[2025-11-17T02:05:48.956Z] 🤖 Bot joining VC: misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:05:49.501Z] ✅ Bot connected and ready in VC: misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:05:49.502Z] 🔗 Wiring speaking listener for guild 1397262280814760109
+[2025-11-17T02:05:51.000Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:05:51.969Z] 📣 Donald YELL played!
+[2025-11-17T02:05:57.324Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:05:57.488Z] 📣 Donald YELL played!
+[2025-11-17T02:06:00.704Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:00.705Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:01.831Z] 🔁 Target user SWITCHED VC: misc-gaming → Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:01.831Z] ➡️ Bot moving from 1397262281728852003 → Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:01.833Z] 🤖 Bot joining VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:02.429Z] ✅ Bot connected and ready in VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:02.430Z] 🔗 Wiring speaking listener for guild 1397262280814760109
+[2025-11-17T02:06:03.614Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:03.780Z] 📣 Donald YELL played!
+[2025-11-17T02:06:05.643Z] 🔁 Target user SWITCHED VC: Phasmophobe (Ghosts shouldn't be allowed to get married) → Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:06:05.644Z] ➡️ Bot moving from 1414837791128420404 → Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:06:05.644Z] 🤖 Bot joining VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:06:06.224Z] ✅ Bot connected and ready in VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:06:06.224Z] 🔗 Wiring speaking listener for guild 1397262280814760109
+[2025-11-17T02:06:07.164Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:07.164Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:09.792Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:09.967Z] 📣 Donald YELL played!
+[2025-11-17T02:06:10.871Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:10.872Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:11.771Z] 🔁 Target user SWITCHED VC: Deeb (beedee) → Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:11.771Z] ➡️ Bot moving from 1397265023688245278 → Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:11.772Z] 🤖 Bot joining VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:12.316Z] ✅ Bot connected and ready in VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:06:12.316Z] 🔗 Wiring speaking listener for guild 1397262280814760109
+[2025-11-17T02:06:12.739Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:12.739Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:14.063Z] 🔁 Target user SWITCHED VC: Phasmophobe (Ghosts shouldn't be allowed to get married) → misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:06:14.064Z] ➡️ Bot moving from 1414837791128420404 → misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:06:14.064Z] 🤖 Bot joining VC: misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:06:14.618Z] ✅ Bot connected and ready in VC: misc-gaming (guild 1397262280814760109)
+[2025-11-17T02:06:14.618Z] 🔗 Wiring speaking listener for guild 1397262280814760109
+[2025-11-17T02:06:15.511Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:15.666Z] 📣 Donald YELL played!
+[2025-11-17T02:06:16.032Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:16.032Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:18.972Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:18.972Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:19.695Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:19.695Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:06:21.751Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:21.899Z] 📣 Donald YELL played!
+[2025-11-17T02:06:23.231Z] 🎤 Target user (190200434487459842) STARTED speaking!
+[2025-11-17T02:06:23.231Z] ⏱️ Cooldown active for 190200434487459842, skipping yell.

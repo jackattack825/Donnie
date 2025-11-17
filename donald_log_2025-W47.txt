@@ -1,0 +1,180 @@
+[2025-11-17T02:29:43.541Z] Initial targets: [190200434487459842]
+[2025-11-17T02:29:43.543Z] Initial admins:  [190200434487459842]
+[2025-11-17T02:29:44.142Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T02:30:14.615Z] ARM in guild 1397262280814760109 by nord420
+[2025-11-17T02:30:14.902Z] Target 190200434487459842 already in VC Phasmophobe (Ghosts shouldn't be allowed to get married), connecting now.
+[2025-11-17T02:30:14.903Z] Joining VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:30:15.434Z] Bot connected and ready in VC: Phasmophobe (Ghosts shouldn't be allowed to get married) (guild 1397262280814760109)
+[2025-11-17T02:30:15.434Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T02:30:17.381Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:17.446Z] Donald yell played for user 190200434487459842
+[2025-11-17T02:30:19.520Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:19.520Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:20.480Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:20.480Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:20.567Z] Target 190200434487459842 switched VC: Phasmophobe (Ghosts shouldn't be allowed to get married) → Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:20.567Z] Moving bot from 1414837791128420404 → Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:20.569Z] Joining VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:21.050Z] Bot connected and ready in VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:21.050Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T02:30:21.426Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:21.427Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:22.436Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:22.440Z] Donald yell played for user 190200434487459842
+[2025-11-17T02:30:23.345Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:23.345Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:29.703Z] Target 190200434487459842 left VC Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:29.703Z] Bot leaving VC because target user left (guild 1397262280814760109).
+[2025-11-17T02:30:30.981Z] Target 190200434487459842 joined VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:30.981Z] Joining VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:31.532Z] Bot connected and ready in VC: Deeb (beedee) (guild 1397262280814760109)
+[2025-11-17T02:30:31.532Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T02:30:33.277Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:33.279Z] Donald yell played for user 190200434487459842
+[2025-11-17T02:30:34.496Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:34.496Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:36.212Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:36.212Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:38.038Z] Target user 190200434487459842 started speaking
+[2025-11-17T02:30:38.038Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T02:30:39.172Z] DISARM in guild 1397262280814760109 by nord420
+[2025-11-17T02:30:39.172Z] Bot leaving VC due to disarm in guild 1397262280814760109.
+[2025-11-17T03:15:56.165Z] Initial targets: [190200434487459842]
+[2025-11-17T03:15:56.166Z] Initial admins:  [190200434487459842]
+[2025-11-17T03:15:57.000Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:17:41.229Z] ARM in guild 1397262280814760109 by nord420
+[2025-11-17T03:17:41.584Z] Target 190200434487459842 already in VC homwrk-kill me now, connecting now.
+[2025-11-17T03:17:41.584Z] Joining VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:17:42.118Z] Bot connected and ready in VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:17:42.119Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T03:17:44.290Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:17:44.324Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:17:47.229Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:17:47.230Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T03:17:52.352Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:17:52.355Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:17:57.960Z] Target 190200434487459842 switched VC: homwrk-kill me now → misc2 (guild 1397262280814760109)
+[2025-11-17T03:17:57.960Z] Moving bot from 1439753871365902558 → misc2 (guild 1397262280814760109)
+[2025-11-17T03:17:57.962Z] Joining VC: misc2 (guild 1397262280814760109)
+[2025-11-17T03:17:58.533Z] Bot connected and ready in VC: misc2 (guild 1397262280814760109)
+[2025-11-17T03:17:58.534Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T03:18:02.726Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:18:02.729Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:19:03.134Z] Initial targets: [190200434487459842]
+[2025-11-17T03:19:03.136Z] Initial admins:  [190200434487459842]
+[2025-11-17T03:19:03.714Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:19:04.090Z] Registered GUILD slash commands for guild 1397262280814760109.
+[2025-11-17T03:20:40.199Z] ARM in guild 1397262280814760109 by nord420
+[2025-11-17T03:20:46.979Z] Target 190200434487459842 joined VC: misc2 (guild 1397262280814760109)
+[2025-11-17T03:20:46.979Z] Joining VC: misc2 (guild 1397262280814760109)
+[2025-11-17T03:20:47.459Z] Bot connected and ready in VC: misc2 (guild 1397262280814760109)
+[2025-11-17T03:20:47.460Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T03:20:48.806Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:20:48.846Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:20:50.226Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:20:50.226Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T03:20:50.411Z] Target 190200434487459842 left VC misc2 (guild 1397262280814760109)
+[2025-11-17T03:20:50.411Z] Bot leaving VC because target user left (guild 1397262280814760109).
+[2025-11-17T03:20:51.468Z] Target 190200434487459842 joined VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:20:51.468Z] Joining VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:20:52.016Z] Bot connected and ready in VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:20:52.017Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T03:20:52.653Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:20:52.653Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T03:20:57.432Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:20:57.435Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:20:58.395Z] Target 190200434487459842 left VC homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:20:58.395Z] Bot leaving VC because target user left (guild 1397262280814760109).
+[2025-11-17T03:21:15.857Z] DISARM in guild 1397262280814760109 by nord420
+[2025-11-17T03:28:37.781Z] Initial targets: [190200434487459842]
+[2025-11-17T03:28:37.782Z] Initial admins:  [190200434487459842]
+[2025-11-17T03:28:38.409Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:28:38.793Z] Registered GUILD slash commands for guild 1397262280814760109.
+[2025-11-17T03:37:35.194Z] Initial targets: [190200434487459842]
+[2025-11-17T03:37:35.195Z] Initial admins:  [190200434487459842]
+[2025-11-17T03:37:35.852Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:37:36.322Z] Registered GUILD slash commands for guild 1397262280814760109.
+[2025-11-17T03:38:35.952Z] ARM in guild 1397262280814760109 by nord420
+[2025-11-17T03:38:35.952Z] Target 190200434487459842 already in VC homwrk-kill me now, connecting now.
+[2025-11-17T03:38:35.953Z] Joining VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:38:36.503Z] Bot connected and ready in VC: homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:38:36.503Z] Speaking listener attached for guild 1397262280814760109
+[2025-11-17T03:38:38.940Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:38:38.970Z] Donald yell played for user 190200434487459842
+[2025-11-17T03:38:41.283Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:38:41.284Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T03:38:43.303Z] Target user 190200434487459842 started speaking
+[2025-11-17T03:38:43.304Z] Cooldown active for 190200434487459842, skipping yell.
+[2025-11-17T03:38:44.036Z] Target 190200434487459842 left VC homwrk-kill me now (guild 1397262280814760109)
+[2025-11-17T03:38:44.036Z] Bot leaving VC because target left.
+[2025-11-17T03:48:48.120Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:48:48.518Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T03:49:13.102Z] Added admin: 1235007555906834494 by OWNER
+[2025-11-17T03:53:00.175Z] Logged in as DonaldThornBerry#8647
+[2025-11-17T03:53:00.582Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T04:03:47.849Z] Logged in as DonaldThornBerry#8647 (Shadow Mode Active)
+[2025-11-17T04:03:48.198Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T04:03:48.380Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T04:05:17.088Z] Add target 973629728344920094 by nord420
+[2025-11-17T04:05:45.796Z] Add target 631039195317665802 by nord420
+[2025-11-17T04:06:35.601Z] ARM in guild 1256482249331965992 by nord420
+[2025-11-17T04:06:35.602Z] Joining VC: o-block
+[2025-11-17T04:06:36.183Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:06:36.218Z] Played yell for 190200434487459842
+[2025-11-17T04:06:38.441Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:06:43.842Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:06:43.845Z] Played yell for 190200434487459842
+[2025-11-17T04:17:00.102Z] Logged in as DonaldThornBerry#8647 (Shadow + Badmin Cloak Active)
+[2025-11-17T04:17:00.456Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T04:17:00.606Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T04:17:11.295Z] ARM enabled in guild 1397262280814760109 by nord420
+[2025-11-17T04:17:11.537Z] Joining cloaked VC: Badmin
+[2025-11-17T04:19:29.702Z] Logged in as DonaldThornBerry#8647 (Shadow Mode Active)
+[2025-11-17T04:19:30.041Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T04:19:30.178Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T04:19:34.654Z] ARM in guild 1397262280814760109 by nord420
+[2025-11-17T04:19:34.654Z] Joining VC: Forntite
+[2025-11-17T04:19:36.669Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:19:36.701Z] Played yell for 190200434487459842
+[2025-11-17T04:19:37.487Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:19:42.588Z] Target 190200434487459842 started speaking.
+[2025-11-17T04:19:42.591Z] Played yell for 190200434487459842
+[2025-11-17T05:11:07.178Z] Logged in as DonaldThornBerry#8647 (Shadow Mode Active)
+[2025-11-17T05:11:07.523Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T05:11:07.677Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T05:11:39.219Z] Add target 700555051109711872 by nord420
+[2025-11-17T05:11:56.026Z] Add target 1104915253910835281 by nord420
+[2025-11-17T05:12:11.631Z] Remove target 190200434487459842 by nord420
+[2025-11-17T05:19:24.936Z] ARM in guild 1256482249331965992 by nord420
+[2025-11-17T05:19:24.936Z] Joining VC: o-block
+[2025-11-17T05:19:26.357Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:19:26.692Z] Played yell for 973629728344920094
+[2025-11-17T05:19:28.037Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:19:29.411Z] Target 1104915253910835281 started speaking.
+[2025-11-17T05:19:29.413Z] Played yell for 1104915253910835281
+[2025-11-17T05:19:30.399Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:19:34.698Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:19:34.702Z] Played yell for 973629728344920094
+[2025-11-17T05:19:37.013Z] Target 1104915253910835281 started speaking.
+[2025-11-17T05:19:37.016Z] Played yell for 1104915253910835281
+[2025-11-17T05:19:38.018Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:22:33.959Z] Logged in as DonaldThornBerry#8647 (Shadow Mode Active)
+[2025-11-17T05:22:34.315Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T05:22:34.467Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T05:22:46.714Z] Add admin 973629728344920094 by OWNER
+[2025-11-17T05:23:52.270Z] ARM in guild 1256482249331965992 by ll1ll1lllll1l
+[2025-11-17T05:23:52.271Z] Joining VC: o-block
+[2025-11-17T05:23:53.256Z] Target 1104915253910835281 started speaking.
+[2025-11-17T05:23:53.297Z] Played yell for 1104915253910835281
+[2025-11-17T05:23:55.180Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:23:55.186Z] Played yell for 973629728344920094
+[2025-11-17T05:23:56.794Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:23:56.795Z] Target 1104915253910835281 started speaking.
+[2025-11-17T05:23:57.753Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:23:58.024Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:23:58.538Z] Target 973629728344920094 started speaking.
+[2025-11-17T05:23:59.231Z] DISARM in guild 1256482249331965992 by ll1ll1lllll1l
+[2025-11-17T05:31:35.938Z] Logged in as DonaldThornBerry#8647 (Shadow Mode Active)
+[2025-11-17T05:31:36.260Z] Registered slash commands for guild 1256482249331965992.
+[2025-11-17T05:31:36.422Z] Registered slash commands for guild 1397262280814760109.
+[2025-11-17T05:31:53.182Z] Add target 877251655958151248 by nord420
